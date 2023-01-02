@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on migrating from Web Forms and .NET Framework to .NET Core
-- 🌱 I’m currently learning mainly about .NET Backend (API, Architectures, Best Practices, ...) but I am interestend in programming overal frontend and backend
-- 📫 How to reach me: dieslnikolas@gmail.com would be the best
-
+- 🔭 I’m currently working at Skeleton Software s.r.o., Czechia as web backend developer
+- 🌱 I’m currently learning more about .NET Backend. To extend my knowledge and to have at least some idea whats going on elsewhere
+- 📫 How to reach me: dieslnikolas@gmail.co
+- 💬 Ask me about music production and we'll be friends instantly
+- ⚡ Fun fact: Sometimes I have a realy hard time to understand what the hell I am doing
 
 <!--
-- 💬 Ask me about ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
